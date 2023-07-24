@@ -1,8 +1,8 @@
 <div id="header" align="center">
-### Hi there 👋
+<h1> Hola 👋 </h1>
 </div>
 <div id="header" align="center">
-<img src="https://github.com/sbstzuluaga1111/sbstzuluaga1111/assets/133683120/3f0e51a0-ebff-4789-948d-9664bc6a9cd7" style="width: 200px;">
+<img src="https://github.com/sbstzuluaga1111/sbstzuluaga1111/assets/133683120/3f0e51a0-ebff-4789-948d-9664bc6a9cd7" style="width: 400px;">
 </div>
 
 <!--
