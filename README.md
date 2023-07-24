@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-![ezgif com-video-to-gif](https://github.com/sbstzuluaga1111/sbstzuluaga1111/assets/133683120/82d8b5cb-cf1d-4b5d-9eac-cb389af1f8f9)
+<img src="![ezgif com-video-to-gif](https://github.com/sbstzuluaga1111/sbstzuluaga1111/assets/133683120/3f0e51a0-ebff-4789-948d-9664bc6a9cd7)
+" style="width: 200px;">
 </div>
 
 <!--
