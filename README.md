@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-<img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952coyvm2vmy8nv4ss5f38xtvhsctbvu3199t6bt88g&ep=v1_gifs_search&rid=200w.gif&ct=g" style="width: 200px;">
+![ezgif com-video-to-gif](https://github.com/sbstzuluaga1111/sbstzuluaga1111/assets/133683120/82d8b5cb-cf1d-4b5d-9eac-cb389af1f8f9)
 </div>
 
 <!--
