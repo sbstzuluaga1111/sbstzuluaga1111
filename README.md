@@ -11,7 +11,7 @@
 <div id="header" align="center">
 ⚡⚡⚡
 </div>
-<div id="header" align="center">
+<div id="header">
   Hola.
   <br>
   Me llamo Sebastian soy un joven programador y aqui te contare mi historia mis logros y aspiraciones para que tengas una idea mas clara de mi persona.
