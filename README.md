@@ -47,8 +47,8 @@ Gracias por tomarte el tiempo de conocerme. Estoy emocionado por las oportunidad
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sbstzuluaga1111&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### Motivacion:
+<img src="pendiente" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sbstzuluaga1111&icon=0&color=0)](https://visitcount.itsvg.in)
