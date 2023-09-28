@@ -1,5 +1,18 @@
 <div id="header" align="center">
 <h1> 👋 Hola 👋 </h1>
+  <p>
+    ¡Hola a todos! Soy Sebastian y tengo 20 años. Me caracterizo por ser una persona amable y amistosa, siempre con una sonrisa en el rostro. Mi pasión por aprender es insaciable, y estoy constantemente buscando nuevas oportunidades para crecer y desarrollarme.
+
+Desde que era muy joven, la programación ha sido una parte fundamental de mi vida. La lógica y la creatividad que implica la programación me fascinan, y considero que es una herramienta poderosa para dar vida a ideas innovadoras.
+
+Mi aspiración más grande es convertirme en un programador versátil y conocedor de una amplia gama de temas relacionados con la tecnología. Estoy decidido a mantenerme al tanto de las últimas tendencias y avances en este campo en constante evolución. Mi objetivo es no solo dominar las tecnologías actuales, sino también estar preparado para abrazar las futuras.
+
+Tambien me gusta mucho ver series, peliculas o jugar algun que otro juego.
+
+Creo firmemente en el poder de la tecnología para cambiar el mundo y mejorar la vida de las personas. Quiero ser parte de esa transformación y contribuir al desarrollo de soluciones innovadoras que hagan del mundo un lugar mejor.
+
+Gracias por tomarte el tiempo de conocerme. Estoy emocionado por las oportunidades que el futuro tiene reservadas y ansioso por aprender y crecer junto a todos ustedes. ¡Vamos a crear un futuro tecnológico emocionante juntos!
+  </p>
 </div>
 
 <div id="header" align="center">
