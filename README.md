@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <h1> 👋 Hola 👋 </h1>
   <p>
-    ¡Hola a todos! Soy Sebastian y tengo 20 años. Me caracterizo por ser una persona amable y amistosa, siempre con una sonrisa en el rostro. Mi pasión por aprender es insaciable, y estoy constantemente buscando nuevas oportunidades para crecer y desarrollarme.
+    ¡Hola a todos! Soy Sebastian y tengo 21 años. Me caracterizo por ser una persona amable y amistosa, siempre con una sonrisa en el rostro. Mi pasión por aprender es insaciable, y estoy constantemente buscando nuevas oportunidades para crecer y desarrollarme.
 
 Desde que era muy joven, la programación ha sido una parte fundamental de mi vida. La lógica y la creatividad que implica la programación me fascinan, y considero que es una herramienta poderosa para dar vida a ideas innovadoras.
 
